@@ -1,0 +1,11 @@
+.DS_Store
+node_modules/
+yarn-error.log
+*.hprof
+.vercel
+.env.local
+.env
+.expo
+extra.config.js
+dist/
+
